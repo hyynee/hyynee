@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Anh Huy</h1>
-<h3 align="center">Full Stack Developer | ReactJS • NestJS • NodeJS</h3>
+<h3 align="center">Full Stack Developer | ReactJS • NextJS • NestJS • NodeJS</h3>
 
 <p align="center">
 Final-year Information Technology student at Sai Gon University with experience in building scalable web applications and RESTful APIs.
+Previously trained at CyberSoft Academy
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=hyynee&label=Profile%20views&color=0e75b6&style=flat" />
+<a href="https://drive.google.com/file/d/1eyfOpzy8YiM0mg2O5xLMBP6NCdT8SEkt/view?usp=sharing">
+<img src="https://img.shields.io/badge/View%20My%20CV-Google%20Drive-blue?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
 </p>
 
 ---
